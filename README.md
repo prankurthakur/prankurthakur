@@ -1,10 +1,10 @@
 🚀 Hi, I'm Prankur
 
-I’m building data and AI solutions focused on real-world systems — education, public policy, food systems, and public health.
+I’m building data and AI solutions focused on real-world systems like education, public policy, food systems, and public health.
 
 My journey combines technical learning with deep exposure to how large public systems actually work. Before moving into AI and Data Science, I spent five years preparing for India’s civil services examination, which shaped my ability to analyze complex societal problems, understand policy structures, and think in long-term system outcomes.
 
-Today, I’m focused on building human-first AI — technology that is ethical, context-aware, and grounded in real-world deployment constraints.
+Today, I’m focused on building human-first AI-technology that is ethical, context-aware, and grounded in real-world deployment constraints.
 
 🌍 What I Care About Building
 
@@ -41,7 +41,7 @@ What makes my approach different:
 Global education system analysis using World Bank data.
 Explores access, gender equity, literacy outcomes, and policy investment patterns.
 
-👉 (You will paste your repo link here later)
+👉 (https://github.com/prankurthakur/world-bank-global-education-eda)
 
 📈 Currently Working On
 
