@@ -1,16 +1,66 @@
-## Hi there 👋
+🚀 Hi, I'm Prankur
 
-<!--
-**prankurthakur/prankurthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building data and AI solutions focused on real-world systems — education, public policy, food systems, and public health.
 
-Here are some ideas to get you started:
+My journey combines technical learning with deep exposure to how large public systems actually work. Before moving into AI and Data Science, I spent five years preparing for India’s civil services examination, which shaped my ability to analyze complex societal problems, understand policy structures, and think in long-term system outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today, I’m focused on building human-first AI — technology that is ethical, context-aware, and grounded in real-world deployment constraints.
+
+🌍 What I Care About Building
+
+I’m especially interested in solving problems where data, policy, and human behavior intersect:
+
+• Education system intelligence and access equity
+• AI for public policy and governance transparency
+• Nutrition and food system intelligence
+• AI tools for social impact and development systems
+
+I believe impactful AI must work not only in labs and models, but in messy real-world environments where policy, culture, and infrastructure all interact.
+
+🧠 My Edge
+
+What makes my approach different:
+
+✔ Systems thinking from public policy preparation
+✔ Strong communication from teaching global learners
+✔ Domain context in food systems and development challenges
+✔ Late-starter advantage mindset — fast learning + deep focus
+✔ Strong interest in ethical and inclusive AI deployment
+
+🛠 Current Technical Focus
+
+• Data Analysis (Python, Pandas, NumPy)
+• Data Visualization (Matplotlib, Seaborn)
+• Exploratory Data Analysis
+• Applied Machine Learning (In Progress)
+• Generative AI & Applied AI Systems (Learning & Building)
+
+📦 Featured Projects
+🌍 World Bank Global Education EDA
+
+Global education system analysis using World Bank data.
+Explores access, gender equity, literacy outcomes, and policy investment patterns.
+
+👉 (You will paste your repo link here later)
+
+📈 Currently Working On
+
+• AI + Data projects focused on real-world system problems
+• Building portfolio-level data and AI products
+• Developing human-first AI storytelling + explainability skills
+
+🎯 Long-Term Direction
+
+Building at the intersection of:
+
+AI × Public Systems × Global Development
+
+With a goal of contributing to technology that is:
+Ethical • Scalable • Context-aware • Human-centered
+
+🤝 Open To
+
+• Collaboration on AI for social impact
+• Data + Policy + Development projects
+• Ethical AI and responsible AI implementation discussions
+
