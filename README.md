@@ -47,6 +47,10 @@ Explores access, gender equity, literacy outcomes, and policy investment pattern
 AI-powered async decision capture system using n8n, OpenAI and Notion for structured decision logging.
 (https://github.com/prankurthakur/ai-async-decision-logger)
 
+3.Duolingo Database Architecture & ERD
+Product architecture and relational database design for a Duolingo-style learning platform
+This project presents a complete relational schema and product architecture design for a language learning platform inspired by Duolingo.
+
 
 
 📈 Currently Working On
