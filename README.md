@@ -50,6 +50,9 @@ AI-powered async decision capture system using n8n, OpenAI and Notion for struct
 3.Duolingo Database Architecture & ERD
 Product architecture and relational database design for a Duolingo-style learning platform
 This project presents a complete relational schema and product architecture design for a language learning platform inspired by Duolingo.
+(https://github.com/prankurthakur/duolingo-erd-database-design)
+
+
 
 
 
