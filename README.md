@@ -36,12 +36,16 @@ What makes my approach different:
 • Generative AI & Applied AI Systems (Learning & Building)
 
 📦 Featured Projects
-🌍 World Bank Global Education EDA
 
+🌍 World Bank Global Education EDA
 Global education system analysis using World Bank data.
 Explores access, gender equity, literacy outcomes, and policy investment patterns.
-
 👉 (https://github.com/prankurthakur/world-bank-global-education-eda)
+
+# AI Powered Async Decision Logger
+AI-powered async decision capture system using n8n, OpenAI and Notion for structured decision logging.
+
+
 
 📈 Currently Working On
 
