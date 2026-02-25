@@ -52,9 +52,9 @@ Product architecture and relational database design for a Duolingo-style learnin
 This project presents a complete relational schema and product architecture design for a language learning platform inspired by Duolingo.
 (https://github.com/prankurthakur/duolingo-erd-database-design)
 
-
-
-
+4.World Bank Education Dashboard
+Interactive Power BI dashboard analyzing global education indicators. This project presents an interactive Power BI dashboard built using World Bank Education Statistics (EdStats) data. The dashboard analyzes global education patterns including education access, gender parity, literacy outcomes, and government investment in education. The goal of this project was to transform complex education data into a clear and interactive visual analysis.
+(https://github.com/prankurthakur/worldbank-education-dashboard)
 
 📈 Currently Working On
 
