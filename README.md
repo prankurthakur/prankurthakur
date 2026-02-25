@@ -45,6 +45,7 @@ Explores access, gender equity, literacy outcomes, and policy investment pattern
 
 2.AI Powered Async Decision Logger
 AI-powered async decision capture system using n8n, OpenAI and Notion for structured decision logging.
+(https://github.com/prankurthakur/ai-async-decision-logger)
 
 
 
